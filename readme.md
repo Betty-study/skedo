@@ -10,7 +10,7 @@ npm install pm2 -g
 yarn install
 npm run reinstall
 
-# 安装数据库表22
+# 安装数据库表
 ts-node packages\skedo-dao\src\force_build_db.ts
 
 # 安装低代码模板
